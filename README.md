@@ -1,0 +1,21 @@
+# Linux Commands
+
+- `ls -a` Shows all files plus hidden files in current directory.
+- `ll` List detailed information of files in current directory.
+- `whoami` Prints the effective username of the current user.
+- `pwd` Tells you your current directory in absolute path.
+- `uname` Prints the name about the current machine.
+- `uname -a` Prints the name, version and other details about the current machine.
+- `mkdir <folder name>` Make new folder.
+- `cd <folder name>` Change into folder.
+- `cd ..` Moves you one folder back.
+- `touch <file name>` Create new file.
+- `nano <file name>` Open file to edit.
+- `cat <file name>` Open file to see content of file.
+- `cp <file name> <folder name>` Copy and paste file into a new folder.
+- `rm <file name>` Remove file.
+- `mv <file name> <folder name>` Cut and paste file into a new folder.
+- `sudo chmod 700 <file name>` Gives all permission to file.
+- `top` Gives all the processes (control+z to end)
+- `history` Shows all commands used.
+- `rm -rf` Force delete
